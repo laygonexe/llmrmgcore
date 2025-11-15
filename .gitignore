@@ -1,0 +1,47 @@
+# Rust
+/target/
+**/*.rs.bk
+**/*.swp
+**/*.swo
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDEs and editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# Build artifacts
+*.o
+*.d
+*.so
+*.dll
+*.exe
+*.profdata
+*.profraw
+*.gcno
+*.gcda
+*.gcov
+
+# Crates.io cache
+.cargo/
+Cargo.lock
+
+# OS generated files
+.localized
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor-specific files
+*~
+*.bak
+*.tmp
+.env
+.env.*
+.history/
